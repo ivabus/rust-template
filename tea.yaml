@@ -1,0 +1,3 @@
+dependencies:
+  rust-lang.org: '>=1.70'
+  rust-lang.org/cargo: '*'
